@@ -1,4 +1,4 @@
-owner=
+owner=478192028279111690
 prefix=>
 game=anas to empty >play
 stayinchannel=true
