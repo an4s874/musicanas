@@ -1,0 +1,6 @@
+owner=
+prefix=>
+game=anas to empty >play
+stayinchannel=true
+songinstatus=false
+token="NDc4MTkyMDI4Mjc5MTExNjkw.XPbtYA.aDxYe87QubziBaVE08fhlwy7-zs"
